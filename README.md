@@ -9,10 +9,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMouraKT&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <div align="center">  
-<a href="https://www.instagram.com/cronuzbrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://www.instagram.com/cronuzbrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="mailto:seuemail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+</div>
 
 ## 🚀 Career Transition and Studying C# 💻  
 
@@ -49,11 +50,6 @@ My long-term goal is to combine my skills in web, mobile, and **C#** with game d
 
 If you share the same enthusiasm for technology, innovation, and software development, or if you have an opportunity that could help me in this career transition journey, **let's talk!** I'm always open to new connections and collaborations.  
 
-📫 **How to reach me:**  
-### 📫 How to Reach Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-moura/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieljknd@gmail.com)  
 
 Let's build something amazing together! 🚀
 
