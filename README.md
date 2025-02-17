@@ -53,5 +53,5 @@ If you share the same enthusiasm for technology, innovation, and software develo
 
 Let's build something amazing together! 🚀
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b9406&height=120&section=footer"/>
 
