@@ -15,41 +15,45 @@
   <a href="mailto:seuemail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
 
-## 🚀 Career Transition and Studying C# 💻  
+🚀 Career Transition and Studying C# 💻
+Currently, I'm in the midst of a career transition, focusing my efforts on becoming a C# developer. I'm a tech enthusiast with initial experience in web and mobile development, and now I'm diving headfirst into the world of C# to expand my skills and explore new opportunities in the job market.
 
-Currently, I'm in the midst of a career transition, focusing my efforts on becoming a **C# developer**. I'm a tech enthusiast with initial experience in web and mobile development, and now I'm diving headfirst into the world of **C#** to expand my skills and explore new opportunities in the job market.  
+🌟 About Me
+Junior Web Developer with experience in mobile development.
 
-### 🌟 About Me  
+After a 6-month break from web development studies, I'm resuming my learning journey with a focus on C#, .NET MAUI, and other relevant technologies.
 
-- **Junior Web Developer** with experience in mobile development.  
-- After a 6-month break from web development studies, I'm resuming my learning journey with a focus on **C#** and other relevant technologies.  
-- I'm passionate about technology and innovation, always striving to stay updated with the latest tools and practices.  
-- Beyond web and mobile development, I have a strong interest in **Unreal Engine** and game development, areas I plan to integrate with my new **C#** skills.  
+I'm passionate about technology and innovation, always striving to stay updated with the latest tools and practices.
 
-### 💻 Technologies and Tools  
+Beyond web and mobile development, I have a strong interest in Unreal Engine and game development, areas I plan to integrate with my new C# skills.
 
-Here are some of the technologies I've worked with:  
+💻 Technologies and Tools
+Here are some of the technologies I've worked with:
 
-- **Web Development**: HTML5, CSS3, JavaScript  
-- **Mobile Development**: Kotlin, Flutter  
-- **Game Development**: Unreal Engine  
-- **New Focus**: **C#** (currently studying)  
+Web Development: HTML5, CSS3, JavaScript
 
-### 📚 What I'm Currently Studying  
+Mobile Development: Kotlin, Flutter, Dart, .NET MAUI
 
-- **C#**: Learning the language for desktop, web (ASP.NET), and game development (Unity).  
-- **Web Development**: Refreshing and deepening my knowledge of HTML, CSS, and JavaScript.  
-- **Mobile**: Continuing to explore Kotlin and Flutter for mobile app development.  
-- **Unreal Engine**: Advancing my skills in game development.  
+Game Development: Unreal Engine
 
-### 🎮 Big Dream  
+New Focus: C#, .NET MAUI, Unity (currently studying)
 
-My long-term goal is to combine my skills in web, mobile, and **C#** with game development, creating innovative projects that leave a mark in the world of technology and gaming.  
+📚 What I'm Currently Studying
+C#: Learning the language for desktop, web (ASP.NET), and game development (Unity).
 
-### 🚀 Let's Connect!  
+.NET MAUI: Exploring cross-platform mobile app development with .NET.
 
-If you share the same enthusiasm for technology, innovation, and software development, or if you have an opportunity that could help me in this career transition journey, **let's talk!** I'm always open to new connections and collaborations.  
+Flutter & Dart: Continuing to improve my skills in Flutter for building beautiful and responsive mobile apps.
 
+Kotlin: Enhancing my knowledge of native Android development.
+
+Unreal Engine: Advancing my skills in game development.
+
+🎮 Big Dream
+My long-term goal is to combine my skills in web, mobile, and C# with game development, creating innovative projects that leave a mark in the world of technology and gaming. I aim to leverage .NET MAUI for cross-platform mobile apps and Unity for game development, while continuing to explore Flutter and Kotlin for mobile solutions.
+
+🚀 Let's Connect!
+If you share the same enthusiasm for technology, innovation, and software development, or if you have an opportunity that could help me in this career transition journey, let's talk! I'm always open to new connections and collaborations.
 
 Let's build something amazing together! 🚀
 
